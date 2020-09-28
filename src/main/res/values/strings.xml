@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="username">Username:</string>
+    <string name="enterusername">Enter the username</string>
+    <string name="photo">Cannabis</string>
+    <string name="login">Login</string>
+    <string name="password">Password:</string>
+    <string name="repeat_password">repeat password:</string>
+    <string name="enterpassword">Enter the password</string>
+    <string name="back_to_login">back to login</string>
+    <string name="register_h1">Register</string>
+    <string name="gmail">Gmail:</string>
+    <string name="number">Number:</string>
+    <string name="enternumber">Enter the telephone number</string>
+    <string name="repeat">Repeat the password</string>
+    <string name="entergmail">Enter the gmail</string>
+    <string name="register_now">register</string>
+    <string name="remember">Remember me</string>
+
+</resources>
